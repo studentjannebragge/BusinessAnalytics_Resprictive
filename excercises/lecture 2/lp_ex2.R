@@ -35,3 +35,5 @@ if (solution$status == 0) {
 } else {
   cat("No feasible solution found.\n")
 }
+
+
