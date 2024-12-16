@@ -10,6 +10,6 @@ Business analytics with:
 - transportation modeling
 - simulation
 - Marketing analytics with: linear programming
-- multiple goals.
+- multiple goals
 
 
