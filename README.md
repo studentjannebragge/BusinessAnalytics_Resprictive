@@ -12,6 +12,7 @@ Business analytics with:
 - Marketing analytics with: linear programming
 - multiple goals
 
+-------
 
 Matemaattisten mallien käytännön soveltaminen yritystoiminnassa: tiedonkeruu, mallien laatiminen ja tulosten analysointi liiketoimintasuositusten tueksi. Painopiste käytännön sovelluksissa MS Excelin avulla. Kurssi kattaa visualisoinnin ja raportoinnin tekniikoita.
 
