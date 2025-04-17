@@ -17,3 +17,24 @@
 * Pivot-kaaviot
 * Osittajat ja aikajanat
 * Ehdollinen muotoilu ja Sparkline kaaviot visualisoinnin välineinä
+
+## Tiedon analysointi Excelin Analyysityökaluilla
+
+* Mihin analyysityökaluja käytetään ja miten otan ne käyttöön?
+* Tunnuslukujen laskenta aineistosta
+* Aineiston riippuvuuksien eli korrelaatioiden selvittäminen
+* Regressioanalyysi Excelissä. Mitä se tarkoittaa ja mihin sitä käytetään?
+
+## Excel kaaviot tiedon analysoinnissa
+
+* Mitä aineistosta kertoo boxplot eli ruutu ja jana -kaavio?
+* Mihin käyttäisin histogrammi- tai pareto-kaavioa?
+
+## Ennusteen luonti Excelissä
+
+* Ennuste- ja Ennuste.lineaarinen -funktioiden käyttö
+* Ennustekaavion käyttö data-analytiikassa
+
+## Tavoitteen haku- ja Ratkaisin työkalujen käyttö data-analytiikassa
+
+* Mihin työkaluja käytetään ja miten niitä voitaisiin soveltaa tiedon analysoinnissa?
